@@ -1,0 +1,6 @@
+{
+  "name": "FIFA World Cup 2026 AI Predictor & Bracket Simulator",
+  "description": "Predict FIFA World Cup 2026 match results with deterministic AI logic and simulate the full tournament bracket from Group Stage to Final.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
